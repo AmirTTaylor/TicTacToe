@@ -1,0 +1,7 @@
+1: Create Stage to hold the game
+2: Create the Board
+3: Add Interactive Buttons to each section of the Board
+4: When clicked these buttons display either X or O 
+5: Use Conditional to Specify wheter X or O is placed
+6: Create Win Conditions
+7: After someone wins or draws, play again button
