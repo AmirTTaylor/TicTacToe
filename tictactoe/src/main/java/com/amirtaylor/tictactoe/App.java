@@ -103,7 +103,7 @@ public class App extends Application {
                             playAgainButton.setVisible(true);
                             disableAllButtons();
                         }
-                        if (counter==9){
+                        else if (counter==9){
                             title.setText("Its a Draw");
                             playAgainButton.setVisible(true);
                             disableAllButtons();
